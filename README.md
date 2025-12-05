@@ -1,2 +1,0 @@
-# SBProduits
-Production concernant XSS
